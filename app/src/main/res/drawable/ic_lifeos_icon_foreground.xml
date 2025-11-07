@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Дом (основной элемент) -->
+    <path
+        android:fillColor="#FFB88C"
+        android:pathData="M30,60 L30,80 L50,80 L50,70 L40,70 L40,60 Z"/>
+    <path
+        android:fillColor="#FFB6D9"
+        android:pathData="M25,60 L54,40 L54,40 L54,60 L54,60 Z"/>
+    
+    <!-- Крыша дома -->
+    <path
+        android:fillColor="#FF6B9D"
+        android:pathData="M20,60 L54,35 L88,60 L54,60 Z"/>
+    
+    <!-- Окна -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,65 L42,65 L42,72 L35,72 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,65 L53,65 L53,72 L46,72 Z"/>
+    
+    <!-- Дверь -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M40,75 L48,75 L48,80 L40,80 Z"/>
+    
+    <!-- Эмодзи-элементы (упрощенные пиксели) -->
+    <!-- Дракончик -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M70,30 L75,30 L75,35 L70,35 Z"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M72,28 L73,28 L73,30 L72,30 Z"/>
+    
+    <!-- Печенька -->
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M80,50 L85,50 L85,55 L80,55 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M81.5,52 L82.5,52 L82.5,53 L81.5,53 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82.5,52 L83.5,52 L83.5,53 L82.5,53 Z"/>
+    
+    <!-- Монета -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M75,70 L80,70 L80,75 L75,75 Z"/>
+</vector>
