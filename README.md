@@ -431,3 +431,4 @@ Life_OS/
 
 **Версия**: 1.0.0  
 **Дата релиза**: 2025
+Made by Viktoriya Gonchar
